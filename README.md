@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=yessinedev&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 # 💫 About Me:
-Hi, I'm Yessine! I'm a passionate Full Stack Developer with a keen interest in building innovative web applications and solving complex problems.<br> Currently, I'm working on building my own startup, where I'm leveraging my skills to develop cutting-edge products that make a difference.<br><br>
+Hi, I'm Yessine! I'm a passionate Full Stack Developer with a keen interest in building innovative web applications and solving complex problems.<br><br>
 ### What I Do<br><br>- 💻 I specialize in full-stack web development, with proficiency in both frontend and backend technologies.<br>- 🚀 I enjoy turning ideas into reality and have experience in all stages of the software development lifecycle, from concept to deployment.<br>- 🌐 My tech stack includes [Typescript, Nextjs, Tailwindcss, Nestjs, Spring Boot PostgreSQL ], and I'm always eager to learn and explore new tools and frameworks.<br>- 💻 I'm passionate about developing robust and efficient backend systems that power innovative web applications and drive business growth.
 
 ## 🌐 Socials:
